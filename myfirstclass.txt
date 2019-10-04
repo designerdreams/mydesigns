@@ -4,3 +4,7 @@ Learning topics
 
 1 - Git
 2 - Javascript
+
+Coming new topics 
+
+3 - Angular
